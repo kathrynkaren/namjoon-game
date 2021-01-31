@@ -3,13 +3,13 @@
  */
 
 // 额外分数：修改数字
-let extraScore = 1;
+let extraScore = 3;
 
 // 无敌模式：true 改为 false
 let wuDi = true;
 
 // 第一个水果：修改数字为 0-10
-let firstFruit = 0;
+let firstFruit = 1;
 
 // 指定生成的水果
 const minRandomFruitNum = 0; // 生成随机水果最小值（0-10）
