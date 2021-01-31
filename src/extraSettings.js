@@ -9,7 +9,7 @@ let extraScore = 3;
 let wuDi = true;
 
 // 第一个水果：修改数字为 0-10
-let firstFruit = 1;
+let firstFruit = 0;
 
 // 指定生成的水果
 const minRandomFruitNum = 0; // 生成随机水果最小值（0-10）
